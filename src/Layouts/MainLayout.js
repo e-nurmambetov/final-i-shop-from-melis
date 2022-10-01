@@ -154,8 +154,9 @@ export default function MainLayout(props) {
               style={{ textDecoration: "none", color: "#fff" }}
               to="/"
             >
+              <Typography variant="h4">Обьявления на продажу авто</Typography>
               <Typography variant="h6" noWrap>
-                MyStore
+                На главную страницу
               </Typography>
             </NavLink>
 
